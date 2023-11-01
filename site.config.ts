@@ -11,18 +11,19 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Data with Dmitri',
-  domain: 'notion.datadmitri.it',
+  domain: 'datadmitri.it',
   // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Dmitri Yanno Mahayana',
 
   // open graph metadata (optional)
-  description: 'Data with Dmitri',
+  description: 'Personal website for Dmitri as a Data Engineering',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
   github: 'dmitrimahayana',
   linkedin: 'dmitri-yanno-mahayana-922639b8',
   youtube: 'channel/UCaTbxO6JUdL2RFAPyjWfLHw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  newsletter: 'https://medium.com/@dmitri.mahayana',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
 

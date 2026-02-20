@@ -30,9 +30,9 @@ const count = ref(0);
 			</div>
 		</div>
 		<Social />
-		<router-link :to="{ name: 'Contact' }">
-			<button class="button">Let's Talk</button>
-		</router-link>
+		<!-- <router-link :to="{ name: 'Contact' }"> -->
+			<!-- <button class="button">Let's Talk</button> -->
+		<!-- </router-link> -->
 	</div>
 </template>
 

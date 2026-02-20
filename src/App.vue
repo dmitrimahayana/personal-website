@@ -71,7 +71,6 @@ defineExpose({ setTheme });
 				<span class="has-text-white"><i class="fa-brands fa-github"></i>/</span
 				><span>{{ profile.github }}</span>
 			</a>
-			<p>Built with Vue.js | Hosted on Vercel</p>
 		</div>
 	</div>
 </template>

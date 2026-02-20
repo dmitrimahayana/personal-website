@@ -30,36 +30,36 @@
 	{
 		"name": "Apache Flink",
 		"detail": "Distributed processing engine",
-		"icon": "/icons/apache flink.png",
-		"color": "#2496ed",
+		"icon": "fa-solid fa-code",
+		"color": "#7C3AED",
 		"url": "https://flink.apache.org"
 	},
 	{
 		"name": "Apache Kafka",
 		"detail": "Distributed streaming platform",
-		"icon": "/icons/apache kafka.png",
-		"color": "#f89c24",
+		"icon": "fa-solid fa-code",
+		"color": "#000000",
 		"url": "https://kafka.apache.org"
 	},
 	{
 		"name": "Apache Spark",
 		"detail": "Engine for large-scale data analytics",
-		"icon": "/icons/apache spark.png",
-		"color": "#f05639",
+		"icon": "fa-solid fa-code",
+		"color": "#F97316",
 		"url": "https://spark.apache.org"
 	},
 	{
 		"name": "Apache Airflow",
 		"detail": "Create, schedule, & monitor workflows",
-		"icon": "/icons/apache airflow.png",
-		"color": "#f05639",
+		"icon": "fa-solid fa-code",
+		"color": "#22C55E",
 		"url": "https://airflow.apache.org"
 	},
 	{
 		"name": "Trino",
 		"detail": "Query engine for big data analytics",
-		"icon": "/icons/trino.png",
-		"color": "#f05639",
+		"icon": "fa-solid fa-code",
+		"color": "#3B82F6",
 		"url": "https://trino.io"
 	}
 ]

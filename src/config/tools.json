@@ -1,0 +1,65 @@
+[
+	{
+		"name": "AWS",
+		"detail": "AWS Cloud Services",
+		"icon": "fab fa-aws",
+		"color": "#f53003",
+		"url": "https://aws.amazon.com"
+	},
+	{
+		"name": "Google Cloud",
+		"detail": "Google Cloud Platform",
+		"icon": "fab fa-google",
+		"color": "#42b983",
+		"url": "https://cloud.google.com"
+	},
+	{
+		"name": "Python",
+		"detail": "Python Backend",
+		"icon": "fab fa-python",
+		"color": "#e34f16",
+		"url": "https://www.python.org"
+	},
+	{
+		"name": "Golang",
+		"detail": "Golang Backend",
+		"icon": "fab fa-golang",
+		"color": "#999da9",
+		"url": "https://go.dev"
+	},
+	{
+		"name": "Apache Flink",
+		"detail": "Distributed processing engine",
+		"icon": "fab fa-flink",
+		"color": "#2496ed",
+		"url": "https://flink.apache.org"
+	},
+	{
+		"name": "Apache Kafka",
+		"detail": "Distributed streaming platform",
+		"icon": "fab fa-kafka",
+		"color": "#f89c24",
+		"url": "https://kafka.apache.org"
+	},
+	{
+		"name": "Apache Spark",
+		"detail": "Engine for large-scale data analytics",
+		"icon": "fab fa-spark",
+		"color": "#f05639",
+		"url": "https://spark.apache.org"
+	},
+	{
+		"name": "Apache Airflow",
+		"detail": "Create, schedule, & monitor workflows",
+		"icon": "fab fa-airflow",
+		"color": "#f05639",
+		"url": "https://airflow.apache.org"
+	},
+	{
+		"name": "Trino",
+		"detail": "Query engine for big data analytics",
+		"icon": "fab fa-trino",
+		"color": "#f05639",
+		"url": "https://trino.io"
+	}
+]

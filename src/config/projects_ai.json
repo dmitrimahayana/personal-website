@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Migration Haystack Framework 2.x",
+		"subtitle": "Haystack 2.x is a major update to the design of Haystack components, Document Stores, and pipelines. Based on the online doc, they believe that the pipeline concept is a fundamental requirement and an optimal fit for building applications with LLMs. There are many changes that being implemented from 1.x to 2.x version. They add more flexibility in creating pipeline, metadata, document store, and component.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*tfbIBL0aO02zUj6WPiHYdA.png",
+		"url": "https://medium.com/@dmitri.mahayana/migration-haystack-framework-2-x-f58b5c585d61",
+		"tags": ["Haystack", "Chatbots", "Pipeline", "PgVector", "Ollama"]
+	},
+	{
+		"title": "Chain Everything with LangGraph",
+		"subtitle": "LangGraph builds on the foundational ideas of LangChain by adding a graph-based structure, which is particularly advantageous for complex workflows and decision trees. Unlike linear sequences, LangGraph’s graph architecture allows branching, conditional steps, and even feedback loops within the workflow. This results in more versatile, efficient applications, where LLM interactions can adapt based on previous results or user interactions.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*irQTGv8uj35VTCaBRMmX9A.png",
+		"url": "https://medium.com/@dmitri.mahayana/chain-everything-with-langgraph-9a0f35b2d7a2",
+		"tags": ["LangChain", "LangGraph", "Postgres", "Ollama"]
+	},
+	{
+		"title": "Ultimate Semantics Search — Part 2 — Metadata Filtering",
+		"subtitle": "Although new retrieval techniques are great, sometimes you just know that you want to perform search on a specific group of documents in your document store. This can be anything from all the documents that are related to a specific user, or that were published after a certain date and so on. Metadata filtering is very useful in these situations.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*pFbs04o_iIuhbQtb82RfOQ.jpeg",
+		"url": "https://medium.com/@dmitri.mahayana/ultimate-semantics-search-part-2-metadata-filtering-05cad97bc5da",
+		"tags": ["Haystack", "Metadata", "Python", "Semantics", "Search"]
+	},
+	{
+		"title": "Ultimate Semantics Search — Part 1 — Haystack Framework",
+		"subtitle": "Haystack emerges as a cutting-edge open-source framework designed to seamlessly integrate large language models (LLMs) into production-ready applications, revolutionizing how businesses leverage AI. It offers unparalleled flexibility, allowing developers to employ the latest LLMs from industry giants like OpenAI and open-source pre-trained models.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Vh6p4YB8VmTQ_tDrDkKW0A.png",
+		"url": "https://medium.com/@dmitri.mahayana/ultimate-semantics-search-haystack-framework-part-1-4e3ba5bee3df",
+		"tags": ["Haystack", "Metadata", "Python", "Semantics", "Search"]
+	},
+	{
+		"title": "Vertex AI and Python for Bounding Box Object Dataset",
+		"subtitle": "Vertex AI is a cloud-based machine learning platform offered by Google Cloud. It’s designed to help data scientists and machine learning engineers build, deploy, and scale ML models more efficiently. The platform integrates various Google Cloud services and features, making it easier to manage the entire lifecycle of machine learning projects",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Xxy5HMwQG0daMdLYWdLMfQ.png",
+		"url": "https://medium.com/@dmitri.mahayana/vertex-ai-and-python-for-bounding-box-object-dataset-b817a88e0551",
+		"tags": ["Vertex AI", "Auto ML", "Bounding Box", "Python", "Streamlit"]
+	},
+	{
+		"title": "Training Your Own Dataset in Llama2 using RAG LangChain",
+		"subtitle": "RAG is a technique for augmenting LLM knowledge with additional, often private or real-time, data. LLMs can reason about wide-ranging topics, but their knowledge is limited to the public data up to a specific point in time that they were trained on.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*eGn2-t13xawtbfEKahSCtw.jpeg",
+		"url": "https://medium.com/@dmitri.mahayana/training-your-own-dataset-in-llama2-using-rag-langchain-e4991064f423",
+		"tags": ["RAG", "LangChain", "Llama2", "Python", "GPT4All"]
+	},
+	{
+		"title": "Create Chatbot Text to Image using Stable Diffusion and Streamlit",
+		"subtitle": "The main objective of Stable Diffusion model is creating significant advancement in image generation capabilities, offering enhanced image composition and face generation that results in stunning visuals and realistic aesthetics",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*twKqAaUgAB_JFs9eWN2iYA.png",
+		"url": "https://medium.com/@dmitri.mahayana/create-chatbot-text-to-image-using-stable-diffusion-and-streamlit-fb88ffda97d2",
+		"tags": ["Stable Diffusion", "Streamlit", "Python"]
+	},
+	{
+		"title": "Creating Virtual Assistance using with Llama-2 7B Chat Model",
+		"subtitle": "Llama2 from Hugging Face is an advanced language model designed to handle complex language processing tasks. It builds upon the successes of its predecessors, leveraging sophisticated algorithms and a vast dataset to understand and generate human-like text.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KWJu-y3yx-UDd4Bl-aFhiQ.jpeg",
+		"url": "https://medium.com/@dmitri.mahayana/creating-virtual-assistance-using-with-llama-2-7b-chat-model-9f693c8250ee",
+		"tags": ["Llama2", "Python", "Hugging Face"]
+	}
+]

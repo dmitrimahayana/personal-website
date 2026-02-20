@@ -1,0 +1,22 @@
+{
+  "github": {
+    "repositories": [
+      {
+        "url": "https://github.com/dmitrimahayana/dmitrimahayana",
+        "banner": "https://opengraph.githubassets.com/1/dmitrimahayana/dmitrimahayana"
+      },
+      {
+        "url": "https://github.com/dmitrimahayana/Py-Flink-Kafka-IDXStock",
+        "banner": "https://opengraph.githubassets.com/1/dmitrimahayana/Py-Flink-Kafka-IDXStock"
+      },
+      {
+        "url": "https://github.com/dmitrimahayana/Py-Flink-ML-IDXStock",
+        "banner": "https://opengraph.githubassets.com/1/dmitrimahayana/Py-Flink-ML-IDXStock"
+      },
+      {
+        "url": "https://github.com/dmitrimahayana/Data-Engineering",
+        "banner": "https://opengraph.githubassets.com/1/dmitrimahayana/Data-Engineering"
+      }
+    ]
+  }
+}

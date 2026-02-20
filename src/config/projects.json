@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Building a Modern Data Lakehouse with dbt, Amazon Athena, and AWS Glue",
+		"subtitle": "A practical guide to transforming S3 data using dbt with Amazon Athena and AWS Glue Data Catalog. Learn how to model data, manage Iceberg tables, optimize cost, and design a scalable lakehouse architecture without running a dedicated warehouse.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*1u0tLcI08xJXh5Uq.jpg",
+		"url": "https://medium.com/@dmitri.mahayana/building-a-modern-data-lakehouse-with-dbt-amazon-athena-and-aws-glue-23f6395054f7",
+		"tags": ["dbt", "Amazon Athena", "AWS Glue", "Apache Iceberg"]
+	},
+	{
+		"title": "Consuming Streaming Kafka Topics with Python Flink Table API",
+		"subtitle": "Apache Flink is a battle-hardened stream processor widely used for demanding applications like these. Its performance and robustness are the result of a handful of core design principles, including a share-nothing architecture with local state, event-time processing, and state snapshots",
+		"banner": "projects/2 flink copy.png",
+		"url": "https://medium.com/@dmitri.mahayana/consuming-kafka-topics-using-python-flink-table-api-6982d63ee9bd",
+		"tags": ["Apache Flink", "Apache Kafka", "MongoDB", "Python"]
+	},
+	{
+		"title": "The Future of Data Warehousing: Trino + Iceberg + Hive Metastore + S3",
+		"subtitle": "Trino is especially well-suited for data warehousing and analytical workloads — tasks that involve scanning and aggregating large datasets to generate reports and insights. These types of operations fall under the category of Online Analytical Processing (OLAP).",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*2ganQsrIzXgJrWb5L9SNHw.png",
+		"url": "https://medium.com/@dmitri.mahayana/the-future-of-data-warehousing-trino-iceberg-hive-metastore-s3-7fc3c20ede01",
+		"tags": ["Trino", "Apache Iceberg", "Hive Metastore", "AWS S3"]
+	},
+	{
+		"title": "Design and Build DBT for Snowflake Model",
+		"subtitle": "dbt is a transformation workflow that helps you get more work done while producing higher quality results. You can use dbt to modularize and centralize your analytics code, while also providing your data team with guardrails typically found in software engineering workflows.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*-Fc0sTqYhsZMrzIHGgkF2Q.png",
+		"url": "https://medium.com/@dmitri.mahayana/design-and-build-dbt-for-snowflake-model-ca689ce9e3e3",
+		"tags": ["dbt", "Apache Airflow", "Snowflake"]
+	},
+	{
+		"title": "Airflow ELT Pipeline for PostgreSQL-BigQuery",
+		"subtitle": "Apache Airflow™ is an open-source platform for developing, scheduling, and monitoring batch-oriented workflows. Airflow’s extensible Python framework enables you to build workflows connecting with virtually any technology.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*-y2_8YsHrC5puIQJGLrmdg.png",
+		"url": "https://medium.com/@dmitri.mahayana/simple-airflow-pipeline-for-postgresql-bigquery-5f8dfcbbe1cd",
+		"tags": ["Apache Airflow", "PostgreSQL", "BigQuery"]
+	},
+	{
+		"title": "IDX Stock — Real Time Data Streaming with Kafka Raft",
+		"subtitle": "Kafka is highly acclaimed data streaming platform, achieves its best performance by offering a distributed, fault-tolerant, and scalable architecture. Kafka excels in handling real-time data streams with low latency and high throughput.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*96SWWheec0yPWPyMlXu8Vg.png",
+		"url": "hhttps://medium.com/@dmitri.mahayana/idx-stock-real-data-streaming-with-kafka-97c479cff1b9",
+		"tags": ["Apache Kafka", "Kafka SQL", "Schema Registry", "Kafka Raft"]
+	}
+]

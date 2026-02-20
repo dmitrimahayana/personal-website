@@ -1,0 +1,37 @@
+{
+	"client": 9,
+	"joining": 2020,
+	"projects": 10,
+	"companies": [
+		{
+			"name": "Phokus",
+			"tenure": "Mar 2024 - Present",
+			"url": "https://www.phokus.io/",
+			"details": "Joined as a <b>Senior Data Engineer</b>. Designed and implemented data engineering pipelines and backend services leveraging AWS cloud-native technologies.<br/>Built and orchestrated workflows with AWS Step Functions and AWS Lambda, automating complex event-driven processes.<br/>Developed backend services and APIs in Python, Golang, and Node.js, integrating with cloud services and third-party systems."
+		},
+		{
+			"name": "Borneo Indobara (GEMS)",
+			"tenure": "Feb 2024 - Sep 2025",
+			"url": "https://www.goldenenergymines.com/id/beranda/",
+			"details": "Worked as a <b>Freelancer AI Developer</b>. Designed and developed a semantic search engine leveraging vector databases and transformer-based embeddings to improve information retrieval accuracy.<br/>Implemented a chatbot system integrated with semantic search, enabling natural language queries with context-aware responses."
+		},
+		{
+			"name": "Deloitte Consulting",
+			"tenure": "Mar 2020 - Sept 2023",
+			"url": "https://www.deloitte.com/southeast-asia/en.html",
+			"details": "My <b>Data and AI</b> role started here. Contributed in design and implementation of a scalable and high-performance Advanced Analytics Platform, harnessing the power of cutting-edge Big Data technologies and cloud infrastructure.<br/>Collaborated closely with cross-department teams to gather requirements and define data engineering solutions."
+		},
+		{
+			"name": "E-Outsource Asia",
+			"tenure": "Oct 2017 - Feb 2020",
+			"url": "https://www.e-oasia.com/",
+			"details": "Worked as a <b>IT Consultant</b>. Contributed to the development of Robotic Process Automation (RPA) bots and Intelligent Document Processing (IDP) solutions using industry-leading tools."
+		},
+		{
+			"name": "Abeam Consulting",
+			"tenure": "Nov 2015 - Oct 2017",
+			"url": "https://www.abeam.com/id/en/",
+			"details": "Worked as a <b>SAP Consultant</b>. Participated in a full-cycle SAP implementation projects, including system landscape design, system configuration, data migration, and integration with third-party applications."
+		}
+	]
+}

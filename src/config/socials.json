@@ -1,0 +1,27 @@
+{
+	"upwork": {
+		"title": "Upwork",
+		"icon": "upwork",
+		"url": "https://www.upwork.com/freelancers/~0183f9717c78c7db59"
+	},
+	"threads": {
+		"title": "Threads",
+		"icon": "twitter",
+		"url": "https://www.threads.com/@dmitri_ym"
+	},
+	"github": {
+		"title": "GitHub",
+		"icon": "github",
+		"url": "https://github.com/dmitrimahayana"
+	},
+	"linkedin": {
+		"title": "Linkedin",
+		"icon": "linkedin",
+		"url": "https://www.linkedin.com/in/dmitri-yanno-mahayana-922639b8/"
+	},
+	"medium": {
+		"title": "Medium",
+		"icon": "medium",
+		"url": "https://medium.com/@dmitri.mahayana"
+	}
+}

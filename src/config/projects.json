@@ -1,5 +1,12 @@
 [
 	{
+		"title": "From Events to Insights: Streaming Kafka Confluent into TimescaleDB",
+		"subtitle": "how to build a real-time streaming pipeline using Kafka (Confluent) as the event backbone and TimescaleDB as the time-series storage engine. Modern applications don’t just generate data — they generate streams of events that need to be processed and analyzed in real time.",
+		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*KjzKE9iVNiiXSbWUFy14Nw.png",
+		"url": "https://medium.com/p/15276e74f84b?postPublishedType=initial",
+		"tags": ["Confluent", "Kafka", "TimescaleDB", "Python"]
+	},
+	{
 		"title": "Building a Modern Data Lakehouse with dbt, Amazon Athena, and AWS Glue",
 		"subtitle": "A practical guide to transforming S3 data using dbt with Amazon Athena and AWS Glue Data Catalog. Learn how to model data, manage Iceberg tables, optimize cost, and design a scalable lakehouse architecture without running a dedicated warehouse.",
 		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*1u0tLcI08xJXh5Uq.jpg",

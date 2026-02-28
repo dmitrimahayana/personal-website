@@ -1,9 +1,16 @@
 [
 	{
+		"title": "Deploying Streaming Data with AWS Managed Apache Flink",
+		"subtitle": "how to build a real-time streaming pipeline using AWS Flink to process incoming events. Flink streaming process is a natural fit for ingesting data into a time-series database like TimescaleDB. Flink can maintain state, handle out-of-order events, perform windowed aggregations, and apply exactly-once data.",
+		"banner": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZwmUNlaP8Ph4_3w_fmSlOg.png",
+		"url": "https://medium.com/@dmitri.mahayana/streaming-data-with-aws-managed-apache-flink-into-timescaledb-e987aadba751",
+		"tags": ["AWS Managed Flink", "Kafka", "TimescaleDB", "Java"]
+	},
+	{
 		"title": "From Events to Insights: Streaming Kafka Confluent into TimescaleDB",
 		"subtitle": "how to build a real-time streaming pipeline using Kafka (Confluent) as the event backbone and TimescaleDB as the time-series storage engine. Modern applications don’t just generate data — they generate streams of events that need to be processed and analyzed in real time.",
 		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*KjzKE9iVNiiXSbWUFy14Nw.png",
-		"url": "https://medium.com/p/15276e74f84b?postPublishedType=initial",
+		"url": "https://medium.com/@dmitri.mahayana/from-events-to-insights-streaming-kafka-confluent-into-timescaledb-15276e74f84b",
 		"tags": ["Confluent", "Kafka", "TimescaleDB", "Python"]
 	},
 	{

@@ -61,6 +61,15 @@ const routes: RouteRecordRaw[] = [
 			showCollab: false
 		}
 	},
+	{
+		path: '/privacy',
+		name: 'Privacy',
+		component: () => import('@/views/Privacy.vue'),
+		meta: {
+			title: 'Privacy Policy',
+			showCollab: false
+		}
+	},
 	{ path: '/:pathMatch(.*)*', redirect: '/' } // Catch-all route to prevent 404s
 ];
 

@@ -8,6 +8,14 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Vercel looks for 'dist' by default
   },
+  css: {
+    preprocessorOptions: {
+      scss: {
+        silenceDeprecations: ['legacy-js-api', 'if-function'],
+        quietDeps: true // hide warnings from node_modules (Bulma)
+      }
+    }
+  },
   plugins: [
     vue({
       script: {

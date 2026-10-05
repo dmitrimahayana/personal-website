@@ -60,22 +60,6 @@ onMounted(async () => {
 			</div> -->
 			<div class="client-projects column is-block mt-5 p-0">
 				<div class="bullets column has-text-left mb-1 p-0">
-					<span class="text-highlight is-clickable"># </span>Data Engineering Projects
-				</div>
-				<div class="column is-flex-desktop is-flex-wrap-wrap p-0">
-					<div
-						class="column is-flex-desktop is-6 pl-0"
-						v-for="project in projects"
-						:key="project.title"
-					>
-						<a :href="project.url" target="_blank" rel="noopener noreferrer">
-							<Card :data="project" :isLink="true" :tags="true" />
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="client-projects column is-block mt-5 p-0">
-				<div class="bullets column has-text-left mb-1 p-0">
 					<span class="text-highlight is-clickable"># </span>DATA SCIENCE & AI Projects
 				</div>
 				<div class="column is-flex-desktop is-flex-wrap-wrap p-0">
@@ -86,6 +70,22 @@ onMounted(async () => {
 					>
 						<a :href="project_ai.url" target="_blank" rel="noopener noreferrer">
 							<Card :data="project_ai" :isLink="true" :tags="true" />
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="client-projects column is-block mt-5 p-0">
+				<div class="bullets column has-text-left mb-1 p-0">
+					<span class="text-highlight is-clickable"># </span>Data Engineering Projects
+				</div>
+				<div class="column is-flex-desktop is-flex-wrap-wrap p-0">
+					<div
+						class="column is-flex-desktop is-6 pl-0"
+						v-for="project in projects"
+						:key="project.title"
+					>
+						<a :href="project.url" target="_blank" rel="noopener noreferrer">
+							<Card :data="project" :isLink="true" :tags="true" />
 						</a>
 					</div>
 				</div>

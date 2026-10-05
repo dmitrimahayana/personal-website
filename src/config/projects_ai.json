@@ -1,5 +1,33 @@
 [
 	{
+		"title": "From Frames to Rally: Teaching YOLO26n to Understand Volleyball",
+		"subtitle": "We wanted to explore whether computer vision could recognize the state of a volleyball rally directly from video to determine whether a rally is currently active or has ended.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*I20PuFGf4W1Fafd_AUkymw.png",
+		"url": "https://medium.com/@dmitri.mahayana/from-frames-to-rally-teaching-yolo26n-to-understand-volleyball-e518ea723851?sharedUserId=dmitri.mahayana",
+		"tags": ["Yolo", "Python", "Computer Vision", "AI", "YOLO26n", "RoboFlow"]
+	},
+	{
+		"title": "Fine-Tuning GPT-2 Locally with LoRA: A Practical Guide with Hugging Face",
+		"subtitle": "LoRA (Low-Rank Adaptation) is a way to fine-tune a large language model without changing its original weights. You freeze the whole model and train a small set of extra matrices alongside it.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M67i-3XCnthvjI1tnTbI3Q.png",
+		"url": "https://medium.com/@dmitri.mahayana/fine-tuning-gpt-2-locally-with-lora-a-practical-guide-with-hugging-face-41d0d3d47cb6?sharedUserId=dmitri.mahayana",
+		"tags": ["LoRA", "Fine-Tuning", "LLM", "Python", "AI Agents", "Hugging Face"]
+	},
+	{
+		"title": "Orchestrating Multi-Agent AI with LangGraph",
+		"subtitle": "how I built a multi-agent AI system using LangGraph, where an Orchestrator acts as the brain of the workflow, delegating tasks to specialized Researcher and Coder agents.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8zETUHH7yvDwaFSejV1tow.png",
+		"url": "https://medium.com/@dmitri.mahayana/orchestrating-multi-agent-ai-with-langgraph-6f2730aaf26e?sharedUserId=dmitri.mahayana",
+		"tags": ["LangChain", "LangGraph", "Langsmith", "Python", "AI Agents"]
+	},
+	{
+		"title": "Built Multiples Agents to Research, Think and Remember on Its Own with Hermes + Obsidian",
+		"subtitle": "Building an autonomous knowledge system with Hermes and Obsidian using three agentic roles: Orchestrator, Researcher, and Librarian.",
+		"banner": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nQhUW05XZme47-B77u0dkA.png",
+		"url": "https://medium.com/@dmitri.mahayana/built-multiples-agents-to-research-think-and-remember-on-its-own-with-hermes-obsidian-2fa067479785?sharedUserId=dmitri.mahayana",
+		"tags": ["Hermes", "AI Agents", "Obsidian", "Agentic", "Knowledge System"]
+	},
+	{
 		"title": "Migration Haystack Framework 2.x",
 		"subtitle": "Haystack 2.x is a major update to the design of Haystack components, Document Stores, and pipelines. Based on the online doc, they believe that the pipeline concept is a fundamental requirement and an optimal fit for building applications with LLMs. There are many changes that being implemented from 1.x to 2.x version. They add more flexibility in creating pipeline, metadata, document store, and component.",
 		"banner": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*tfbIBL0aO02zUj6WPiHYdA.png",

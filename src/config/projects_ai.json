@@ -1,4 +1,10 @@
-[
+[{
+		"title": "n2m - AI Powered Stock Exchange",
+		"subtitle": "The whole US market. One terminal. Charts from one second to five years, 10 technical indicators, a screener over every stock that traded and a watchlist that updates on its own.",
+		"banner": "https://www.upwork.com/att/download/portfolio/persons/uid/1183197118515154944/profile/projects/files/202f0e01-eb81-4745-b7ee-980ed43ed42f",
+		"url": "https://n2m-ai.com/",
+		"tags": ["US Stock Market", "Cryptocurrency", "Streaming", "AI", "TimescaleDB", "Fullstack", "AI Agents"]
+	},
 	{
 		"title": "From Frames to Rally: Teaching YOLO26n to Understand Volleyball",
 		"subtitle": "We wanted to explore whether computer vision could recognize the state of a volleyball rally directly from video to determine whether a rally is currently active or has ended.",
